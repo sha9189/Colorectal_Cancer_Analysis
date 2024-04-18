@@ -1,0 +1,37 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	SAMPLE_ID	METHOD_OF_SAMPLE_PROCUREMENT	COUNTRY	SAMPLE_PRESCREENED	TUMOR_NECROSIS_PERCENT	TUMOR_NUCLEI_PERCENT	TUMOR_WEIGHT	VESSEL_USED
+TCGA-3X-AAV9	0		Sample Acquisition	TCGA-3X-AAV9-01	Surgical Resection	Canada	Yes	0	100	200	Cryomold
+TCGA-3X-AAVA	0		Sample Acquisition	TCGA-3X-AAVA-01	Surgical Resection	Canada	Yes	0	100	150	Cryomold
+TCGA-3X-AAVB	0		Sample Acquisition	TCGA-3X-AAVB-01	Surgical Resection	Canada	Yes	0	100	100	Cryomold
+TCGA-3X-AAVC	-6		Sample Acquisition	TCGA-3X-AAVC-01	Surgical Resection	Canada	Yes	20	80	100	Cryomold
+TCGA-3X-AAVE	7		Sample Acquisition	TCGA-3X-AAVE-01	Surgical Resection	Canada	Yes	0	80	150	Cryomold
+TCGA-4G-AAZO	0		Sample Acquisition	TCGA-4G-AAZO-01	Surgical Resection	Italy	Yes	20	60	35	Cryovial
+TCGA-4G-AAZT	0		Sample Acquisition	TCGA-4G-AAZT-01	Surgical Resection	Italy	Yes	4	75	35	Cryovial
+TCGA-W5-AA2G	0		Sample Acquisition	TCGA-W5-AA2G-01	Surgical Resection	United States	Yes	5	65	200	Cryovial
+TCGA-W5-AA2H	0		Sample Acquisition	TCGA-W5-AA2H-01	Surgical Resection	United States	Yes	5	20	200	Cryovial
+TCGA-W5-AA2I	0		Sample Acquisition	TCGA-W5-AA2I-01	Surgical Resection	United States	Yes	5	30	200	Cryovial
+TCGA-W5-AA2O	0		Sample Acquisition	TCGA-W5-AA2O-01	Surgical Resection	United States	Yes	10	80	200	Cryovial
+TCGA-W5-AA2Q	0		Sample Acquisition	TCGA-W5-AA2Q-01	Surgical Resection	United States	Yes	5	40	200	Cryovial
+TCGA-W5-AA2R	0		Sample Acquisition	TCGA-W5-AA2R-01	Surgical Resection	United States	Yes	5	40	200	Cryovial
+TCGA-W5-AA2T	0		Sample Acquisition	TCGA-W5-AA2T-01	Surgical Resection	United States	Yes	5	60	200	Cryovial
+TCGA-W5-AA2U	0		Sample Acquisition	TCGA-W5-AA2U-01	Surgical Resection	United States	Yes	5	50	200	Cryovial
+TCGA-W5-AA2W	0		Sample Acquisition	TCGA-W5-AA2W-01	Surgical Resection	United States	Yes	5	60	200	Cryovial
+TCGA-W5-AA2X	0		Sample Acquisition	TCGA-W5-AA2X-01	Surgical Resection	United States	Yes	5	70	200	Cryovial
+TCGA-W5-AA2Z	0		Sample Acquisition	TCGA-W5-AA2Z-01	Surgical Resection	United States	Yes	15	40	200	Cryovial
+TCGA-W5-AA30	0		Sample Acquisition	TCGA-W5-AA30-01	Surgical Resection	United States	Yes	60	30	200	Cryovial
+TCGA-W5-AA31	0		Sample Acquisition	TCGA-W5-AA31-01	Surgical Resection	United States	Yes	5	70	200	Cryovial
+TCGA-W5-AA33	0		Sample Acquisition	TCGA-W5-AA33-01	Surgical Resection	United States	Yes	5	60	200	Cryovial
+TCGA-W5-AA34	0		Sample Acquisition	TCGA-W5-AA34-01	Surgical Resection	United States	Yes	5	70	200	Cryovial
+TCGA-W5-AA36	0		Sample Acquisition	TCGA-W5-AA36-01	Surgical Resection	United States	Yes	5	70	200	Cryovial
+TCGA-W5-AA38	0		Sample Acquisition	TCGA-W5-AA38-01	Surgical Resection	United States	Yes	15	70	200	Cryovial
+TCGA-W5-AA39	0		Sample Acquisition	TCGA-W5-AA39-01	Surgical Resection	United States	Yes	5	90	200	Cryovial
+TCGA-W6-AA0S	0		Sample Acquisition	TCGA-W6-AA0S-01	Surgical Resection	United States	Yes	5	60	180	Cryomold
+TCGA-WD-A7RX	0		Sample Acquisition	TCGA-WD-A7RX-01	Surgical Resection	United States	Yes	1	45	150	Cryomold
+TCGA-YR-A95A	0		Sample Acquisition	TCGA-YR-A95A-01	Surgical Resection	Brazil	Yes	0	70	180	Cryovial
+TCGA-ZD-A8I3	0		Sample Acquisition	TCGA-ZD-A8I3-01	Surgical Resection	Vietnam	Yes	1	80	270	Other
+TCGA-ZH-A8Y1	0		Sample Acquisition	TCGA-ZH-A8Y1-01	Surgical Resection	United States	Yes	20	70	510	Cryovial
+TCGA-ZH-A8Y2	0		Sample Acquisition	TCGA-ZH-A8Y2-01	Surgical Resection	United States	Yes	15	60	375	Cryovial
+TCGA-ZH-A8Y4	1		Sample Acquisition	TCGA-ZH-A8Y4-01	Surgical Resection	United States	Yes	5	50	132	Cryovial
+TCGA-ZH-A8Y5	0		Sample Acquisition	TCGA-ZH-A8Y5-01	Surgical Resection	United States	Yes	5	60	370	Cryovial
+TCGA-ZH-A8Y6	-6		Sample Acquisition	TCGA-ZH-A8Y6-01	Surgical Resection	United States	Yes	5	80	311	Cryovial
+TCGA-ZH-A8Y8	0		Sample Acquisition	TCGA-ZH-A8Y8-01	Surgical Resection	United States	Yes	15	45	435	Cryovial
+TCGA-ZU-A8S4	0		Sample Acquisition	TCGA-ZU-A8S4-01	Surgical Resection	United States	Yes	10	85	101	Cryovial

@@ -1,0 +1,100 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	STATUS	AGE_AT_INITIAL_PATHOLOGIC_DIAGNOSIS	PATHOLOGIC_STAGE	SYSTEM_VERSION	PATHOLOGIC_M	PATHOLOGIC_N	PATHOLOGIC_T	ANATOMIC_SITE	TUMOR_STATUS	VITAL_STATUS
+TCGA-3X-AAV9	339		STATUS	DECEASED									
+TCGA-3X-AAVA	445		STATUS	DECEASED									
+TCGA-W5-AA2I	1939		STATUS	DECEASED									
+TCGA-W5-AA2O	640		STATUS	DECEASED									
+TCGA-W5-AA2T	1220		STATUS	DECEASED									
+TCGA-W5-AA2U	627		STATUS	DECEASED									
+TCGA-W5-AA2W	924		STATUS	DECEASED									
+TCGA-W5-AA2X	271		STATUS	DECEASED									
+TCGA-W5-AA36	1402		STATUS	DECEASED									
+TCGA-W5-AA39	170		STATUS	DECEASED									
+TCGA-WD-A7RX	21		STATUS	DECEASED									
+TCGA-YR-A95A	26		STATUS	DECEASED									
+TCGA-ZH-A8Y1	385		STATUS	DECEASED									
+TCGA-ZH-A8Y2	701		STATUS	DECEASED									
+TCGA-ZH-A8Y4	741		STATUS	DECEASED									
+TCGA-ZU-A8S4	98		STATUS	DECEASED									
+TCGA-W5-AA34	555		STATUS	DECEASED									
+TCGA-ZD-A8I3	169		STATUS	DECEASED									
+TCGA-3X-AAV9	0		STATUS	Initial Diagnosis	72	stage I	7th	m0	n0	t1			
+TCGA-3X-AAVA	0		STATUS	Initial Diagnosis	50	stage II	7th	m0	nx	t2b			
+TCGA-3X-AAVB	0		STATUS	Initial Diagnosis	70	stage IVb	7th	m1	n1	t3			
+TCGA-3X-AAVC	0		STATUS	Initial Diagnosis	72	stage I	7th	m0	n0	t1			
+TCGA-3X-AAVE	0		STATUS	Initial Diagnosis	60	stage II	7th	m0	n0	t2			
+TCGA-4G-AAZO	0		STATUS	Initial Diagnosis	71	stage II	7th	m0	n0	t2a			
+TCGA-4G-AAZT	0		STATUS	Initial Diagnosis	62	stage I	7th	m0	n0	t1			
+TCGA-W5-AA2G	0		STATUS	Initial Diagnosis	62	stage I	7th	m0	n0	t1			
+TCGA-W5-AA2H	0		STATUS	Initial Diagnosis	70	stage III	7th	m0	n0	t3			
+TCGA-W5-AA2I	0		STATUS	Initial Diagnosis	66	stage I	6th	m0	n0	t1			
+TCGA-W5-AA2O	0		STATUS	Initial Diagnosis	57	stage I	6th	m0	n0	t1			
+TCGA-W5-AA2Q	0		STATUS	Initial Diagnosis	68	stage II	6th	m0	n0	t2b			
+TCGA-W5-AA2R	0		STATUS	Initial Diagnosis	77	stage I	6th	m0	n0	t1			
+TCGA-W5-AA2T	0		STATUS	Initial Diagnosis	64	stage II	6th	m0	n0	t2			
+TCGA-W5-AA2U	0		STATUS	Initial Diagnosis	78	stage I	7th	m0	n0	t1			
+TCGA-W5-AA2W	0		STATUS	Initial Diagnosis	31	stage IVa	7th	m0	n1	t2a			
+TCGA-W5-AA2X	0		STATUS	Initial Diagnosis	67	stage IVb	7th	m1	n1	t2b			
+TCGA-W5-AA2Z	0		STATUS	Initial Diagnosis	29	stage II	7th	m0	n0	t2			
+TCGA-W5-AA30	0		STATUS	Initial Diagnosis	82	stage I	7th	m0	n0	t1			
+TCGA-W5-AA31	0		STATUS	Initial Diagnosis	71	stage I	7th	m0	n0	t1			
+TCGA-W5-AA33	0		STATUS	Initial Diagnosis	60	stage I	7th	m0	n0	t1			
+TCGA-W5-AA34	0		STATUS	Initial Diagnosis	75	stage I	7th	m0	n0	t1			
+TCGA-W5-AA36	0		STATUS	Initial Diagnosis	51	stage IV	6th	m1	n0	t3			
+TCGA-W5-AA38	0		STATUS	Initial Diagnosis	55	stage I	7th	m0	n0	t1			
+TCGA-W5-AA39	0		STATUS	Initial Diagnosis	81	stage II	7th	m0	n0	t2			
+TCGA-W6-AA0S	0		STATUS	Initial Diagnosis	46	stage I	7th	mx	n0	t1			
+TCGA-WD-A7RX	0		STATUS	Initial Diagnosis	71	stage II	7th	mx	nx	t2b			
+TCGA-YR-A95A	0		STATUS	Initial Diagnosis	52	stage IV	6th	m1	nx	t2			
+TCGA-ZD-A8I3	0		STATUS	Initial Diagnosis	73	stage II	7th	m0	n0	t2			
+TCGA-ZH-A8Y1	0		STATUS	Initial Diagnosis	74	stage IVa	7th	m0	n1	t3			
+TCGA-ZH-A8Y2	0		STATUS	Initial Diagnosis	59	stage I	7th	m0	nx	t1			
+TCGA-ZH-A8Y4	0		STATUS	Initial Diagnosis	58	stage I	7th	m0	n0	t1			
+TCGA-ZH-A8Y5	0		STATUS	Initial Diagnosis	69	stage IVb	7th	m1	n1	t3			
+TCGA-ZH-A8Y6	0		STATUS	Initial Diagnosis	41	stage I	7th	m0	n0	t1			
+TCGA-ZH-A8Y8	0		STATUS	Initial Diagnosis	73	stage I	7th	m0	n0	t1			
+TCGA-ZU-A8S4	0		STATUS	Initial Diagnosis	52	stage I	7th	mx	nx	t1			
+TCGA-3X-AAV9	216		STATUS	Locoregional Recurrence							Liver		
+TCGA-3X-AAV9	216		STATUS	Extrahepatic Recurrence							Lung		
+TCGA-3X-AAVA	264		STATUS	Extrahepatic Recurrence							Bone		
+TCGA-3X-AAVA	265		STATUS	Intrahepatic Recurrence							Liver		
+TCGA-4G-AAZO	424		STATUS	Intrahepatic Recurrence							Liver		
+TCGA-W5-AA2I	217		STATUS	New Primary Tumor							Bladder		
+TCGA-W5-AA2O	215		STATUS	Intrahepatic Recurrence							Liver		
+TCGA-W5-AA2T	295		STATUS	Extrahepatic Recurrence							Bone		
+TCGA-W5-AA2T	561		STATUS	Extrahepatic Recurrence							Bone		
+TCGA-W5-AA2T	896		STATUS	Extrahepatic Recurrence							Lung		
+TCGA-W5-AA2T	993		STATUS	Extrahepatic Recurrence							Bone		
+TCGA-W5-AA2U	95		STATUS	New Primary Tumor							Lung		
+TCGA-W5-AA2W	237		STATUS	Intrahepatic Recurrence							Liver		
+TCGA-W5-AA34	40		STATUS	Intrahepatic Recurrence							Liver		
+TCGA-W5-AA34	152		STATUS	Intrahepatic Recurrence							Liver		
+TCGA-W5-AA36	362		STATUS	Intrahepatic Recurrence							Liver		
+TCGA-W5-AA36	362		STATUS	Extrahepatic Recurrence							Lung		
+TCGA-W5-AA38	377		STATUS	Locoregional Recurrence							Liver		
+TCGA-W6-AA0S	549		STATUS	Extrahepatic Recurrence							Non-Regional / Distant Lymph Nodes		
+TCGA-YR-A95A	17		STATUS	New Primary Tumor							Adrenal Gland		
+TCGA-ZD-A8I3	59		STATUS	Locoregional Recurrence							Liver		
+TCGA-ZH-A8Y1	49		STATUS	Locoregional Recurrence									
+TCGA-ZH-A8Y2	198		STATUS	Locoregional Recurrence									
+TCGA-ZH-A8Y4	281		STATUS	Locoregional Recurrence									
+TCGA-ZH-A8Y5	242		STATUS	Extrahepatic Recurrence							Lung		
+TCGA-ZU-A8S4	72		STATUS	Intrahepatic Recurrence							Liver		
+TCGA-ZU-A8S4	72		STATUS	Extrahepatic Recurrence							Mesentery, Gerota's Fascia, Extensive Involvement In Chest		
+TCGA-3X-AAVB	402		STATUS	Last Follow Up									Alive
+TCGA-3X-AAVC	709		STATUS	Last Follow Up								Tumor Free	Alive
+TCGA-3X-AAVE	650		STATUS	Last Follow Up								Tumor Free	Alive
+TCGA-4G-AAZO	1177		STATUS	Last Follow Up									Alive
+TCGA-4G-AAZT	420		STATUS	Last Follow Up									Alive
+TCGA-W5-AA2G	1976		STATUS	Last Follow Up								Tumor Free	Alive
+TCGA-W5-AA2H	1077		STATUS	Last Follow Up									Alive
+TCGA-W5-AA2Q	50		STATUS	Last Follow Up								Tumor Free	Alive
+TCGA-W5-AA2R	1542		STATUS	Last Follow Up									Alive
+TCGA-W5-AA2Z	1614		STATUS	Last Follow Up									Alive
+TCGA-W5-AA30	1153		STATUS	Last Follow Up									Alive
+TCGA-W5-AA31	10		STATUS	Last Follow Up								Tumor Free	Alive
+TCGA-W5-AA33	1449		STATUS	Last Follow Up									Alive
+TCGA-W5-AA38	1471		STATUS	Last Follow Up								Tumor Free	Alive
+TCGA-W6-AA0S	808		STATUS	Last Follow Up									Alive
+TCGA-ZH-A8Y5	1229		STATUS	Last Follow Up								With Tumor	Alive
+TCGA-ZH-A8Y6	519		STATUS	Last Follow Up								Tumor Free	Alive
+TCGA-ZH-A8Y8	602		STATUS	Last Follow Up								Tumor Free	Alive

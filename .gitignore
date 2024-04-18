@@ -1,0 +1,9 @@
+__pycache__
+Cancer-Project-Code.code-workspace
+
+.DS_Store
+
+Dataset/ihch_msk_2021.tar.gz
+Dataset/blca_msk_tcga_2020.tar.gz
+Dataset/ihch_msk_2021
+Dataset/blca_msk_tcga_2020

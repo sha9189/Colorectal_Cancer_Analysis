@@ -1,0 +1,16 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	TREATMENT_TYPE	TREATMENT_SUBTYPE	AGENT	NUMBER_OF_CYCLES	PRESCRIBED_DOSE	PRESCRIBED_DOSE_UNITS	REGIMEN_NUMBER	REGIMEN_INDICATION	REGIMEN_INDICATION_NOTES	MEASURE_OF_RESPONSE	CLINICAL_TRIAL_DRUG_CLASSIFICATION	ROUTE_OF_ADMINISTRATION	ROUTE_OF_ADMINISTRATION-2	THERAPY_ONGOING	TOTAL_DOSE	TOTAL_DOSE_UNITS	TX_ON_CLINICAL_TRIAL	ANATOMIC_TREATMENT_SITE	COURSE_NUMBER	NUMBER_OF_FRACTIONS	RADIATION_DOSAGE	RADIATION_TREATMENT_ONGOING	RADIATION_TYPE	RADIATION_UNITS	PHARM_REGIMEN	STEM_CELL_TRANSPLANTATION	STEM_CELL_TRANSPLANTATION_TYPE
+TCGA-3X-AAV9	253	326	Treatment	Chemotherapy		Gemcitabine							clinical progressive disease				No			No										
+TCGA-3X-AAV9	253	326	Treatment	Chemotherapy		Cisplatin							clinical progressive disease				No			No										
+TCGA-3X-AAVA	271	277	Treatment	Radiation Therapy		Radiation 1							radiographic progressive disease								Distant Recurrence		5	2000	No	External	cgy			
+TCGA-4G-AAZO	427		Treatment	Chemotherapy		Gemcitabine							stable disease				Yes			No										
+TCGA-W5-AA2H	59	271	Treatment	Chemotherapy		Gemcitabine							complete response				No			No										
+TCGA-W5-AA2T	56	205	Treatment	Chemotherapy		Gemcitabine							complete response				No			No										
+TCGA-W5-AA2Z	63		Treatment	Chemotherapy		Cisplatin							clinical progressive disease				Yes			No										
+TCGA-W5-AA2Z	63		Treatment	Chemotherapy		Gemcitabine							clinical progressive disease				Yes			No										
+TCGA-W5-AA36	41	76	Treatment	Chemotherapy		Gemcitabine							stable disease				No			No										
+TCGA-W5-AA36	41	76	Treatment	Chemotherapy		Capecitabine							stable disease				No			No										
+TCGA-W6-AA0S	33	123	Treatment	Chemotherapy		Gemcitabine											No			No										
+TCGA-W6-AA0S	33	123	Treatment	Chemotherapy		Cisplatin											No			No										
+TCGA-ZH-A8Y4	70	162	Treatment	Chemotherapy		Gemcitabine							partial response				No			No										
+TCGA-ZH-A8Y5	132	246	Treatment	Chemotherapy		Gemcitabine							partial response				No			No										
+TCGA-ZH-A8Y5	132	231	Treatment	Chemotherapy		Cisplatin							partial response				No			No										
