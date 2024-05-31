@@ -96,6 +96,7 @@ def run_binary_classification_models(X, y):
     predictions = run_classification_models(classifiers, X, y)
     return predictions
 
+
 def run_multiclass_classification_models(X, y):
     """Function that takes X and y as input and passes it 
     through standard multiclass classification algorithms and returns performance 

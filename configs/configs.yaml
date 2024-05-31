@@ -2,3 +2,4 @@
 
 STORAGE_DIR: "./Dataset/mydata/"
 STORAGE_DIR_STUDY1: "./Dataset/mydata/chol_tcga_pan_can_atlas_2018/"
+STORAGE_DIR_STUDY2: "./Dataset/mydata/coadread_tcga_pan_can_atlas_2018/"
