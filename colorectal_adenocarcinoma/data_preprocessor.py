@@ -4,7 +4,7 @@ import sys
 def show_unique_vals_by_column(df:pd.DataFrame):
     """Function to show distinct values in each column of a pandas dataframe"""
     numeric_cols = []
-    for column in df.columns:
+    for column in sorted(df.columns):
         if df[column].dtype == object:  # Check if the column data type is object (typically used for text)
             unique_values = df[column].unique()
             print(f"Column '{column}' has {len(unique_values)} unique values: {sorted(unique_values)[:10]} {'...' if len(unique_values) > 10 else ''}")
