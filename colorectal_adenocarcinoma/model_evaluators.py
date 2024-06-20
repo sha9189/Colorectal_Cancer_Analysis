@@ -90,7 +90,7 @@ def multiclass_classification(X, y, n_splits=5, binary_classification=True):
 def plot_feature_importance_plot_using_rf(X, y):
     """Function to plot feature importance plot using Random Forest Classifier
     Inputs:
-        X: preprocesses X (excluding scaling)
+        X: preprocessed X (excluding scaling)
         y: target
     """
     scaler = StandardScaler()

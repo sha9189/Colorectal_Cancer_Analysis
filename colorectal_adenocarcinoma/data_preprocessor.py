@@ -77,7 +77,9 @@ def label_encode_n_stage(n_stage:str):
     Label encode N-stage. Can handle only : ['N0', 'N1', 'N1A', 'N1B', 'N1C', 'N2', 'N2A', 'N2B'] 
     """
     n_stage = n_stage.upper()
-    if n_stage == 'N0':
+    
+    # if n_stage == 'N0':
+    if n_stage == 'N0' or n_stage == "NX": #temp line
         return 0
     elif n_stage == 'N1' or n_stage == 'N1A':
         return 1
