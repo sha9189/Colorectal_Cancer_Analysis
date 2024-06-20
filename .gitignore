@@ -20,3 +20,9 @@ play.ipynb
 
 Sanjukta
 
+coad_silu_2022_analysis/data/coad_silu_2022/*
+!coad_silu_2022_analysis/data/coad_silu_2022/data_clinical_patient.txt
+!coad_silu_2022_analysis/data/coad_silu_2022/data_clinical_sample.txt
+coad_silu_2022_analysis/data/coad_silu_2022.tar.gz
+
+
