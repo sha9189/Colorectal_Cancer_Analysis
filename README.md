@@ -3,7 +3,7 @@
 In this project, we aimed to identify key features for predicting cancer recurrence in Colorectal Adenocarcinoma patients. Our approach involved data collection, cleaning, and feature extraction from both clinical and genomic datasets. Below is a detailed breakdown of our findings and methodologies.
 
 ## 1. Data Source Details:
-**Name of Cancer Study**: Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)
+**Name of Cancer Study**: Colorectal Adenocarcinoma (TCGA, PanCancer Atlas)    
 **Data Source**: [cBioPortal](https://www.cbioportal.org/study/summary?id=coadread_tcga_pan_can_atlas_2018)   
 
 ### Probability Distribution of Cancer Recurrence Time 
